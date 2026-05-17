@@ -16,6 +16,7 @@ In this project, I created a structured database and solved multiple business pr
 • Identified long-running TV shows and longest movies
 • Categorized content using keyword-based sentiment logic
 • Used advanced SQL concepts like:
+
 ✅ CTEs
 ✅ Window Functions (RANK)
 ✅ String Functions
