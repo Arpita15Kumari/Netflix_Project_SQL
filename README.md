@@ -18,11 +18,17 @@ In this project, I created a structured database and solved multiple business pr
 • Used advanced SQL concepts like:
 
 ✅ CTEs
+
 ✅ Window Functions (RANK)
+
 ✅ String Functions
+
 ✅ Aggregate Functions
+
 ✅ Date Functions
+
 ✅ Data Cleaning Techniques
+
 ✅ UNNEST & STRING_TO_ARRAY
 
 💡 Key Learnings from this Project:
@@ -36,9 +42,11 @@ This project helped me understand how SQL can be used not just for querying data
 
 I’m continuously learning and building projects in:
 🔹 Data Analytics
+
 🔹 SQL
+
 🔹 Python
-🔹 Embedded Systems
+
 🔹 AI-driven technologies
 
 Open to opportunities and collaborations in Data Analytics roles.
