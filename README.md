@@ -41,6 +41,7 @@ In this project, I created a structured database and solved multiple business pr
 This project helped me understand how SQL can be used not just for querying data, but for generating actionable insights that support business decisions.
 
 I’m continuously learning and building projects in:
+
 🔹 Data Analytics
 
 🔹 SQL
