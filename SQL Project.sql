@@ -21,7 +21,7 @@ CREATE TABLE NETFLIX
 select * from netflix;
 select count(*) from netflix;
 
--- 14 Business Problems & Solutions
+-- 15 Business Problems & Solutions
 
 -- 1. Count the number of Movie vs TV Show
 select type, count(*) as Type_count from netflix
